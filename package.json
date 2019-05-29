@@ -2,8 +2,8 @@
   "name": "deployment-bot",
   "version": "1.0.0",
   "private": true,
-  "author": "Rohit Mathew <rohit.mathew@turtlemint.com>",
-  "description": "Bot to run staging deployments from slack. Jenkins Token=112abcd64205490afaad6077c35d385614",
+  "author": "Rohit Mathew",
+  "description": "Bot to run staging deployments from slack.",
   "dependencies": {
     "hubot": "^3.3.2",
     "hubot-diagnostics": "^1.0.0",

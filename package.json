@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:rohitjmathew/slack-jenkins-bot.git"
+    "url": "git://github.com:rohitjmathew/slack-jenkins-bot.git"
   },
   "bugs": {
     "url": "https://github.com/rohitjmathew/slack-jenkins-bot/issues"

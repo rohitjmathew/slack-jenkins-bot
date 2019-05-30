@@ -11,7 +11,8 @@
     "hubot-jenkins-optimised": "^1.0.0",
     "hubot-jenkins-slack": "0.0.2",
     "hubot-scripts": "^2.17.2",
-    "hubot-slack": "^4.7.1"
+    "hubot-slack": "^4.7.1",
+    "hubot-slack-attachment": "^1.0.1"
   },
   "engines": {
     "node": "11.14.0"

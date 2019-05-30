@@ -18,5 +18,12 @@
   },
   "scripts": {
     "start": "./bin/hubot -a slack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rohitjmathew/slack-jenkins-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rohitjmathew/slack-jenkins-bot/issues"
   }
 }

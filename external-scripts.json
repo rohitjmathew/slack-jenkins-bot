@@ -1,7 +1,7 @@
 [
   "hubot-diagnostics",
   "hubot-help",
-  "hubot-jenkins-slack",
+  "hubot-jenkins-slack-optimised",
   "hubot-jenkins-optimised",
   "hubot-slack-attachment-optimised"
 ]
